@@ -35,7 +35,7 @@ This project presents an interactive data visualization of the Netflix Titles da
 
 ##  Dashboard Snapshots
 
-### Tableau Dashboard  
+### <a href = "https://public.tableau.com/app/profile/tufan.kundu/viz/Netflix_Dashboard_17434217678040/NetfixDashboard">Tableau Dashboard</a>  
 ![Netflix Dashboard - Tableau](https://github.com/kindo-tk/netflix_dashboard_analysis/blob/main/Assets/Netflix_dashboard_tableau.png)
 
 ---
