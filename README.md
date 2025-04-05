@@ -1,5 +1,4 @@
 #  Netflix Dashboard Analysis
-
 This project presents an interactive data visualization of the Netflix Titles dataset using **Power BI** and **Tableau**. The dashboards explore content trends, production statistics, genre preferences, ratings, and geographic distribution across the Netflix library.
 
 ##  Dataset
@@ -16,7 +15,7 @@ This project presents an interactive data visualization of the Netflix Titles da
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 | Tool      | Purpose                  |
 |-----------|--------------------------|
@@ -37,12 +36,12 @@ This project presents an interactive data visualization of the Netflix Titles da
 ##  Dashboard Snapshots
 
 ### Tableau Dashboard  
-![Netflix Dashboard - Tableau](./Netflix_dashboard.png)
+![Netflix Dashboard - Tableau](https://github.com/kindo-tk/netflix_dashboard_analysis/blob/main/Assets/Netflix_dashboard_tableau.png)
 
 ---
 
 ### Power BI Dashboard  
-![Netflix Dashboard - Power BI](./Netflix_dashboard_powerBI.png)
+![Netflix Dashboard - Power BI](https://github.com/kindo-tk/netflix_dashboard_analysis/blob/main/Assets/Netflix_dashboard_powerBI.png)
 
 ---
 
